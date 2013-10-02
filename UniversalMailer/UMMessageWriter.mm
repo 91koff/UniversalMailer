@@ -70,6 +70,10 @@ using namespace mimetic;
 [NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingEUC_CN)], @"gb2312",\
 [NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingEUC_CN)], @"x-euc-cn",\
 [NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingEUC_KR)], @"ks_c_5601-1987",\
+[NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingBig5)], @"big5",\
+[NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingBig5)], @"cn-big5",\
+[NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingBig5)], @"x-x-big5",\
+[NSNumber numberWithLong: CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingBig5_HKSCS_1999)], @"big5-hkscs",\
 nil]
 
 
