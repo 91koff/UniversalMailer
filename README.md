@@ -1,7 +1,9 @@
 UniversalMailer
 ===============
 
-Universal Mailer plugin for Mail.app
+<h4>Go to the <a href='http://universalmailer.github.io/UniversalMailer/'>page</a> of the plugin where you can find installers.</h4>
+
+Universal Mailer plugin for Mail.app.
 
 Universal Mailer is a Mail.app plugin that solves some issues when sending emails. It removes ATT00001.htm files,
    it correctly formats messages with attachments and inline images and offers an option to set the default font for outgoing messages.
