@@ -5,3 +5,4 @@ xcuserdata
 .deps
 *.a
 .DS_STORE
+xcshareddata
